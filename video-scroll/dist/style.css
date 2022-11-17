@@ -1,0 +1,59 @@
+body{
+  background-color: black;
+
+}
+
+.video-background {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: auto;
+  min-height: 70%;
+  transform: translate(-50%, -50%);
+
+}
+
+#container {
+  height: 500vh;
+}
+
+h1 {
+  width: 100vw;
+  color: aliceblue;
+  position: fixed;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  z-index: 100;
+
+}
+
+h3 {
+  width: 100vw;
+  padding-top: 2em;
+  color: aliceblue;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  z-index: 100;
+
+}
+
+
+p {
+  font: 0.7em sans-serif;
+  width: 100vw;
+  padding: 0.5em;
+  color: aliceblue;
+  position: fixed;
+  display: flex;
+  bottom: 0;
+  z-index: 100;
+
+}
+
+
+
+
+
+
